@@ -1,0 +1,24 @@
+div {
+    margin-top:17%;
+    width:80%;
+    margin-left:10%;
+}
+
+p { 
+    position:relative;
+    font-size:32px;
+    text-align:center;
+}
+
+#braille {
+    font-size: 120px;
+    margin-bottom:5%;
+}
+
+#english {
+    width:100%;
+    text-align:center;
+    font-weight:bold;
+}
+
+
